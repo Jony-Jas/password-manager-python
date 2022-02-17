@@ -15,3 +15,5 @@ Manage your passwords using this app.
 - Search for your password by entering your website name and then clicking `search`
 
 ### Screenshot 🖼️
+
+![Screenshot 2022-02-17 145810](https://user-images.githubusercontent.com/74784363/154447809-ef20028c-8d66-4d5a-88cd-3ab365b2db89.png)
