@@ -96,7 +96,7 @@ def save():
 
 
 window = Tk()
-window.title("Password Generator")
+window.title("Password Manager")
 window.config(padx=50, pady=20)
 
 
